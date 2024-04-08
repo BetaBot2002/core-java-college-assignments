@@ -10,3 +10,6 @@
 9. **Constructor Chaining.** [View Answer](./ConstructorChaining.java)
 10. **Call one constructor from another.** [View Answer](./CallingOneConstructorFromAnother.java)
 11. **Static Variable, Method and Block.** [View Answer](./StaticKeyword.java)
+12. **Static Inner Class.** [View Answer](./StaticInnerClass.java)
+13. **Package Example: Animal Package with Pet and Wild Class.** [View Answer](./PackageExamples/Animal/)
+14. **Access Modifiers Example.** [View Answer](./PackageExamples/AccessModifiers/)
