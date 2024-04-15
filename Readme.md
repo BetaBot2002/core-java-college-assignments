@@ -13,3 +13,7 @@
 12. **Static Inner Class.** [View Answer](./StaticInnerClass.java)
 13. **Package Example: Animal Package with Pet and Wild Class.** [View Answer](./PackageExamples/Animal/)
 14. **Access Modifiers Example.** [View Answer](./PackageExamples/AccessModifiers/)
+15. **Final Keyword Example.** [View Answer](./FinalKeyword.java)
+16. **Inner Class Example.** [View Answer](./InnerClass.java)
+17. **Anonymous Inner Class Example.** [View Answer](./AnonymousInnerClass.java)
+18. **Method Inner Class Example.** [View Answer](./MethodInnerClass.java)
