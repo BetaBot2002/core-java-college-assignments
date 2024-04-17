@@ -17,3 +17,6 @@
 16. **Inner Class Example.** [View Answer](./InnerClass.java)
 17. **Anonymous Inner Class Example.** [View Answer](./AnonymousInnerClass.java)
 18. **Method Inner Class Example.** [View Answer](./MethodInnerClass.java)
+19. **Single Inheritance Example.** [View Answer](./ISARelationship.java)
+20. **Multilevel Inheritance Example.** [View Answer](./MultilevelInheritance.java)
+21. **Hierarchical Inheritance Example.** [View Answer](./HierarchialInheritance.java)
